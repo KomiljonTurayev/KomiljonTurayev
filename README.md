@@ -3,7 +3,8 @@
 <img src="https://user-images.githubusercontent.com/61906391/104982286-28881580-5a2c-11eb-83b3-1c5b95566b64.png" alt="image" style="max-width: 100%;">
 <img align="right" alt="Coding" src="https://user-images.githubusercontent.com/61906391/214832114-f0a347b5-5c5b-429d-8e98-3539be67014c.svg" 
 data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 100%; display: inline-block;" 
-data-target="animated-image.originalImage"><p></p>
+data-target="animated-image.originalImage">
+<img src="https://user-images.githubusercontent.com/61906391/104982286-28881580-5a2c-11eb-83b3-1c5b95566b64.png" alt="image" style="max-width: 100%;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komiljonturayev&label=Profile%20views&color=0e75b6&style=flat" alt="komiljonturayev" /> </p>
 
 - 🔭 I’m currently working on **Modularizing Android Apps**
