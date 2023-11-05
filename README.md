@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Komiljon Turayev</h1>
-<h3 align="center">Software Engineer | Android Engineer at Beznisni rivojlantirish banki BRB</h3>
+<h3 align="center">Software Engineer | Android Engineer at Biznesni rivojlantirish banki BRB</h3>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/61906391/104982286-28881580-5a2c-11eb-83b3-1c5b95566b64.png"><img src="https://user-images.githubusercontent.com/61906391/104982286-28881580-5a2c-11eb-83b3-1c5b95566b64.png" alt="image" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/61906391/214832114-f0a347b5-5c5b-429d-8e98-3539be67014c.svg"><img src="https://user-images.githubusercontent.com/61906391/214832114-f0a347b5-5c5b-429d-8e98-3539be67014c.svg" alt="github-contribution-grid-snake" style="max-width: 100%;"></a></p>
 
